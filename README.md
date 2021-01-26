@@ -10,3 +10,5 @@ the below commands)
 pyautogui: pip install PyAutoGUI
 pyperclip: pip install pyperclip
 opencv: pip install opencv-python
+Even if you're getting errors Try Installing this pip install Pillow
+Keep in mind that You have to open whatsapp web after running the file.
