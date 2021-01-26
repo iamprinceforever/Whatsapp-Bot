@@ -8,3 +8,4 @@ Make sure you downloaded the required Packages
 the below commands)
 pyautogui: pip install PyAutoGUI
 pyperclip: pip install pyperclip
+opencv: pip install opencv-python
